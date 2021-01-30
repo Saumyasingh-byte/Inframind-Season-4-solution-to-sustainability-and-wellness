@@ -1,0 +1,16 @@
+.btn-primary.custom-btn
+ {
+	background-color:#fcfcfc;
+    border-color: #fcfcfc;;
+    color: #717171;
+}
+.Bar{
+    width:600px;
+    height:600px;
+    position: relative;
+    top:40px;
+    left:60px;
+}
+@media only screen and (min-device-width: 764px) and (max-device-width: 1024px){
+    
+}

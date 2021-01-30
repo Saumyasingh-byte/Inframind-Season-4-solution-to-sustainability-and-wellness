@@ -1,0 +1,285 @@
+.DetailName,.DetailName1{
+    position:absolute;
+    top:150px;
+    left:300px;
+    width:400px;
+    height:300px;
+}
+.DetailName1{
+    top:570px;
+}
+.nameDe,.nameDee,.nameDee1,.nameDee2,.nameDee3,.nameDee4,.nameDee5,.nameDe01{
+    position: relative;
+    width: 319px;
+    height: 25px;
+    top:20px;
+    left:20px;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: #3a3a3a;
+}
+.nameDe01{
+    font-size: 25px;
+    top:10px;
+    color:#000000;
+    
+}
+.nameDee{
+    font-size: 18px;
+    text-transform: none;
+    left:90px;
+    top:50px;
+}
+.nameDee1{
+    font-size: 18px;
+    text-transform: none;
+    left:90px;
+    top:40px;
+    color:#717171
+}
+.nameDee2{
+    font-size: 18px;
+    text-transform: none;
+    left:290px;
+    top:-30px;
+    color:#3a3a3a;
+}
+.nameDee3{
+    font-size: 18px;
+    text-transform: none;
+    left:290px;
+    top:-40px;
+    color:#717171
+}
+.nameDee4{
+    font-size: 18px;
+    text-transform: none;
+    left:440px;
+    top:-115px;
+    color:#3a3a3a;
+}
+.nameDee5{
+    font-size: 18px;
+    text-transform: none;
+    left:440px;
+    top:-125px;
+    color:#717171
+}
+.hr00010{
+    position: relative;
+    height:2px;
+    width:350px;
+    top:-60px;
+    left:-132px;
+    background:#717171;
+}
+.divDe,.divDe1,.DIVV{
+    position: relative;
+    width: 961px;
+    height: 260px;
+    left:20px;
+    top:50px;
+    background: #FFFFFF;
+    margin-bottom: 170px;;
+    box-shadow: 0px 1px 20px rgba(90, 53, 212, 0.5);
+    border-radius: 10px;
+}
+.divDe1{
+    height:950px;
+    padding-bottom: 50px;
+}
+.DIVV{
+    height:470px;
+    width:880px;
+    top:70px;
+    left:-90px;
+}
+.GRAPH2{
+    position: relative;
+    height:550px;
+    width:750px;
+    top:50px;
+    left:50px;
+}
+.DieName{
+    position: relative;
+    width: 319px;
+    height: 25px;
+    top:-10px;
+    left:90px;
+    text-align: left;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    text-transform: uppercase;
+    color: #3a3a3a;
+}
+
+.diab,.bronc,.resp,.glu,.herat,.Oxy,.Chlo{
+    position: relative;
+    top:450px;
+    left:510px;
+    width:100px;
+    height:100px;
+    display: none;
+}
+.diab{
+    display: block;
+}
+.bronc{
+    top:520px;
+    left:930px;
+
+}
+.resp{
+    top:930px;
+}
+.glu{
+    top:830px;
+    left:930px;
+}
+.herat{
+    top:1230px;
+}
+.Oxy{
+    top:1130px;
+    left:930px;
+}
+.Chlo{
+    top:1530px;
+}
+
+.r5001,.r5002{
+    position: relative;
+width: 190px;
+height: 16px;
+left: 48px;
+top: 14px;
+text-align: left;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 16px;
+
+color: #B4B4B4;
+
+}
+.r5002{
+    width: 256px;
+height: 22px;
+top:10px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 10px;
+
+color: #717171;
+}
+.r5003{
+    position: relative;
+width: 202px;
+height: 0px;
+left: 46px;
+top: -3px;
+
+border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.r5004,.r5005,.r50051,.r50052,.r50053,.r50054{
+    position: relative;
+width: 204px;
+height: 19px;
+left: 46px;
+top: 7px;
+text-align: left;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 1.1;
+
+color: #717171;
+
+}
+.r5005{
+    top:-115px;
+    left:120px;
+    width:100px;
+    height:100px;
+}
+.r50051{
+    width:70px;
+    height:70px;
+    top:-90px;
+    left:115px;
+}
+.r50052{
+    width:100px;
+    height:120px;
+    top:-115px;
+    left:117px;
+}
+.r50053{
+    width:100px;
+    height:120px;
+    top:-100px;
+    left:121px;
+}
+.r50054{
+    width:80px;
+    height:100px;
+    top:-90px;
+    left:125px;
+}
+.Redr500,.Bluer500,.Greenr500,.Pinkr500,.Purpler500,.Skyr500,.Darkr500{
+    position: relative;
+width: 7px;
+height: 100px;
+left: 0px;
+top: -155px;
+
+background: #8a2828;
+}
+.Pinkr500{
+   background:  rgba(466, 01, 129, 0.84);
+   top: -180px;
+}
+.Darkr500{
+    background: #16470c;
+    top: -180px;
+ }
+.Skyr500{
+    background:  #1a7174;
+    top: -200px;
+ }
+.Purpler500{
+    background:  #5a35d4;
+    top: -200px;
+ }
+.Bluer500{
+    background: #3a3550;
+    top: -151px;
+}
+.Greenr500{
+    background: #8FEF44;
+}
+.rect500{
+    position: relative;
+width: 361px;
+height: 150px;
+left: 55px;
+top: 50px;
+margin-bottom: 30px;
+margin-right: 70px;
+background: #FFFFFF;
+box-shadow: 0px 1px 20px rgba(0, 0, 0, 0.38);
+border-radius: 20px;
+}

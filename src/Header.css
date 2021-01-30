@@ -1,0 +1,80 @@
+.Header333{
+    position: absolute;
+width: 1520px;
+height: 80px;
+left: 0px;
+top: -0.14px;
+z-index: -2;
+background: #FFFFFF;
+box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.05);
+}
+.header01333{
+    display:none;
+}
+.Name333{
+    position: absolute;
+width: 162px;
+height: 33px;
+left: 273px;
+top: 24.54px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 33px;
+
+letter-spacing: 0.04em;
+text-transform: uppercase;
+
+color: #5A35D4;
+
+}
+.help333{
+    position: absolute;
+    left:1410px;
+    top:25px;
+}
+.setting333{
+    position: absolute;
+    left:1450px;
+    top:25px;
+}
+.Drop333{
+    position: absolute;
+    left:1290px;
+    top:25px;
+}
+@media only screen and (min-device-width: 764px) and (max-device-width: 1024px){
+    .Header333{
+        width:1490px;
+        height:125px;
+    }
+   
+    .Name333{
+        top:50px;
+        left:293px;
+        font-size: 32px;
+    }
+}
+@media only screen and (min-device-width: 068px) and (max-device-width: 764px){
+    .Header333{
+        z-index: 0;
+        height:200px;
+    }
+    .Name333{
+        left:150px;
+        font-size: 70px;
+        padding-top:50px;
+    }
+    .header01333{
+        display:block;
+        position: absolute;
+        width: 1500px;
+        height: 200px;
+        left: 0px;
+        top: 0px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.05);
+    }
+}

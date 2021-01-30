@@ -1,0 +1,199 @@
+.Navbar333{
+    position: fixed;
+width: 232px;
+height: 100%;
+left: 0px;
+top: -0.14px;
+box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.1);
+z-index: 200;
+background: #FFFEFE;
+}
+.logo333{
+    position: absolute;
+width: 124px;
+height: 87px;
+left: 23.46px;
+top: 41.86px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 87px;
+
+color: #717171;
+}
+.DashIcon{
+    position: relative;
+left: 35px;
+top:20px;
+}
+.UploadIcon{
+    position: relative;
+    left:35px;
+    top:15px;
+}
+.ReportIcon{
+    position: relative;
+    left:-60px;
+    top:15px;
+}
+.Dashboard333{
+    position: absolute;
+    width: 229.88px;
+    height: 65.25px;
+    left: 0px;
+    top: 192px;
+text-align: left;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+
+color: #717171;
+}
+
+.DashboardS333{
+    position: absolute;
+width: 229.88px;
+height: 65.25px;
+left: 0px;
+top: 192px;
+
+text-align: left;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+background: #5A35D4;
+color: #ffffff;
+}
+.txt333{
+    margin-left:100px;
+    position: relative;
+    top:-10px;
+}
+.txtR333{
+    margin-left:40px;
+    position: relative;
+    top:-10px;
+}
+
+.Upload333{
+    position: absolute;
+    width: 229.88px;
+    height: 65.25px;
+    left: 0px;
+    top: 252px;
+text-align: left;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+
+color: #717171;
+}
+.UploadS333{
+    position: absolute;
+    width: 229.88px;
+    height: 65.25px;
+    left: 0px;
+    top: 252px;
+text-align: left;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+background: #5A35D4;
+color: #ffffff;
+}
+.Report333{
+    position: absolute;
+    width: 229.88px;
+    height: 65.25px;
+    left: 0px;
+    top: 312px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+
+color: #717171;
+}
+.ReportS333{
+    position: absolute;
+    width: 229.88px;
+    height: 65.25px;
+    left: 0px;
+    top: 312px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+background: #5A35D4;
+color: #ffffff;
+}
+.svg3333{
+    width:33px;
+    height:30px;
+}
+.svg4333{
+    width:27px;
+    height:27px;
+}
+
+
+@media only screen and (min-device-width: 764px) and (max-device-width: 1024px){
+    .Navbar333{
+        height:100%;
+        width:252px;
+    }
+    .logo333{
+        top:70px;
+        width: 164px;
+        height: 97px;
+        left:40px;
+    }
+    .Dashboard333,.DashboardS333{
+        font-size: 27px;;
+        top:250px;
+        left:0px;
+        width:245px;
+    }
+    .Upload333,.UploadS333{
+        font-size: 27px;;
+        top:325px;
+        left:00px;
+        width:245px;
+    }
+    .Report333,.ReportS333{
+        font-size: 27px;;
+        top:396px;
+        left:0px;
+        width:245px;
+    }
+    .txt333{
+        margin-left: 90px;
+    }
+}
+@media only screen and (min-device-width: 068px) and (max-device-width: 764px){
+.Navbar333{
+    background: #fcfcfc;
+    box-shadow: none;
+}
+.logo333,.Dashboard333,.Upload333,.Report333,.DashboardS333,.UploadS333,.ReportS333{
+    color:#fcfcfc;
+    background: #fcfcfc;
+}
+.DashIcon,.ReportIcon,.UploadIcon{
+    display:none;
+}
+}
